@@ -1,8 +1,6 @@
 # Home Credit Default Risk – A Comprehensive Machine Learning Approach
 
 ## Project Overview
-This project predicts the likelihood of loan applicants failing to repay debts for [Home Credit](https://www.homecredit.net/), an international consumer finance provider. The solution combines **multi-table feature engineering**, **smart imputation strategies**, and **ensemble modeling** to help lenders make data-driven decisions while mitigating risk.
-
 This project addresses the challenge of predicting loan repayment ability for individuals with limited or no credit history, supporting Home Credit’s mission to expand financial inclusion. By leveraging alternative data and machine learning, the goal is to improve credit risk assessment and ensure fair access to responsible lending [Home Credit](https://www.kaggle.com/competitions/home-credit-default-risk).
 ## Project Structure
 
